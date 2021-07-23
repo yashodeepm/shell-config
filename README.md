@@ -1,6 +1,6 @@
 #Shell configuration currently used
 
-Currently using Oh-my-zsh with the following plugins: `git`, `zsh-autosuggestions`, zsh-syntax-highlighting` and `powerlevel10k` theme. The other configured theme here is `cobalt2`.
+Currently using Oh-my-zsh with the following plugins: `git`, `zsh-autosuggestions`, `zsh-syntax-highlighting` and `powerlevel10k` theme. The other configured theme here is `cobalt2`.
 
 [Prerequisite here is to install oh-my-zsh]
 ##Plugins:
@@ -12,3 +12,5 @@ Themes can be downloaded to $ZSH_CUSTOM/themes/<theme-name>.zsh-theme file. The 
 Specifically for powerlevel10k, you can run `p10k configure`
 
 For installing colorls (the one that beautifies ls output) use `gem install colorls` and add an alias for the same
+
+Helpful links: https://www.slant.co/topics/7553/~theme-for-oh-my-zsh
